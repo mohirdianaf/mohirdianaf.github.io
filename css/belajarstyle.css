@@ -1,0 +1,17 @@
+h1 {color: #3399ff}
+
+h2 {color: #ADD8E6}
+
+#nav {
+	border: 5px groove blue
+}
+
+
+#nav a {
+	text-decoration: none;color:#3399ff
+}
+
+.penjelasan {
+	font-family: Arial;
+	font-variant: small-caps;
+}
